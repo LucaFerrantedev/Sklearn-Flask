@@ -12,6 +12,7 @@ Este repositorio contiene el proyecto final desarrollado para un trabajo de una 
 **Visualización Dinámica:** Generación de gráficos estadísticos personalizados con Matplotlib, renderizados directamente en la interfaz mediante codificación base64.
 
 **🛠️ Stack Tecnológico:**
+
 **🌐 Flask:** Framework para el backend, manejo de rutas y lógica de servidor.
 
 **🤖 Scikit-Learn:** Entrenamiento y evaluación del modelo de regresión lineal.
